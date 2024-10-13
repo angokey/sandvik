@@ -7,7 +7,7 @@ permalink: /about/
 ## 关于山特维克可乐满 SANDVIK COROMANT
 你好，我是山特维克刀具经销商，拥有10年数控刀具相关工作经验，专业经销各品牌进口国产数控刀具，现在自己单独创业，如果您有这方便的刀具需求欢迎扫码联系我。
 
-![公众号二维码](https://github.com/lemonchann/images/raw/master/gzh/%E6%96%87%E6%9C%AB%E6%8E%A8%E5%B9%BF%E6%96%87%E6%A1%88.png)
+![公众号二维码](https://github.com/angokey/sandvik/blob/master/images/qrcode.jpg)
 
 
 一、公司概况
